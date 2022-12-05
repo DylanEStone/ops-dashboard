@@ -1,0 +1,26 @@
+export const DSNLogo = () => (
+  <svg
+    className=""
+    fill="none"
+    height="36"
+    viewBox="0 0 32 32"
+    width="36"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+  <path
+    xmlns="http://www.w3.org/2000/svg"
+    style={{
+      fill: "#d40026",
+      fillOpacity: 1,
+      fillRule: "nonzero",
+      stroke: "#e7c77e",
+      strokeWidth: 6.20000029,
+      strokeMiterlimit: 4,
+      strokeOpacity: 1,
+      strokeDasharray: "none",
+      strokeDashoffset: 0,
+    }}
+    d="M247.871 254.957c-37.666 0-68.187 45.403-68.187 101.406 0 56.003 30.521 101.407 68.187 101.407s68.188-45.404 68.188-101.407c0-56.003-30.522-101.406-68.188-101.406zm-.437 44.86c18.832 0 30.953 24.038 30.953 56.995 0 32.958-12.57 55.65-31.402 55.65-18.833 0-31.433-23.59-31.433-56.547 0-32.958 13.049-56.098 31.882-56.098z"
+  />
+  </svg>
+);
