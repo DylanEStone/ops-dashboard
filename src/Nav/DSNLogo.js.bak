@@ -1,7 +1,0 @@
-import { ReactSVG } from "react-svg";
-
-export function DSNLogo() {
-  return (
-    <ReactSVG src="./DSNLogo.svg" />
-  )
-}
